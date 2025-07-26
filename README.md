@@ -1,6 +1,6 @@
 <h1 align="center">🦄 Selam! Ben Esra Akbulut 🥑</h1>
 <p align="center">
-  Bilgisayar Mühendisliği öğrencisi | Python | Yapay zekaya | Makine Öğrenimi👩‍💻
+  Bilgisayar Mühendisliği öğrencisi | Python | Yapay zekay | Makine Öğrenimi👩‍💻
 </p>
 
 <p align="center">
