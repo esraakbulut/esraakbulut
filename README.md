@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoODg5anZta2Joa25wMmpwaDY2OXltdDVoZ2xndXltNnBjdm4yMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif" width="200" alt="Cute coding avocado" />
+  <img .gif" width="200" alt="Cute coding avocado" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ## 📫 Beni Bul:
 
-- 📧 E-posta: nur.akbulut@bil.omu.edu.tr  
+- 📧 E-posta: esranrakbulut@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/esranurakbulut](https://www.linkedin.com/in/esra-nur-akbulut-73618a2a3/) 
 
 ---
