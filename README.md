@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img .gif" width="200" alt="Cute coding avocado" />
+ 
 </p>
 
 ---
